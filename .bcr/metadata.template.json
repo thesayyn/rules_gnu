@@ -1,7 +1,7 @@
 {
-  "homepage": "https://github.com/myorg/rules_mylang",
+  "homepage": "https://github.com/thesayyn/rules_gnu",
   "maintainers": [],
-  "repository": ["github:myorg/rules_mylang"],
+  "repository": ["github:thesayyn/rules_gnu"],
   "versions": [],
   "yanked_versions": {}
 }
